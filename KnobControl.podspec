@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage            = "http://raywenderlich.com"
   s.license             = "MIT"
   s.author              = "Narendra Goojer"
-  s.platform            = :iOS, "12.0"
+  s.platform            = :ios, "12.0"
   s.source              = { :git => "https://github.com/ngoojer/KnobControl.git", :tag => "1.0.0" }
   s.source_files        = "KnobControl"
   s.swift_version       = "5.0"
